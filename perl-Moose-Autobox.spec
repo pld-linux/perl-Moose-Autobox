@@ -8,13 +8,13 @@
 Summary:	Moose::Autobox - Autoboxed wrappers for Native Perl datatypes
 Summary(pl.UTF-8):	Moose:Autobox = Autoboxowane opakowania dla natywnych typów danych perla
 Name:		perl-Moose-Autobox
-Version:	0.10
-Release:	2
+Version:	0.11
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://search.cpan.org/CPAN/authors/id/R/RJ/RJBS/Moose-Autobox-%{version}.tar.gz
-# Source0-md5:	26d3fd2c0618594d6b13acf1116adb21
+# Source0-md5:	9d2e237c2cbe7e2cfe3afe8f0bbf75e7
 URL:		http://search.cpan.org/dist/Moose-Autobox/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
